@@ -1,7 +1,3 @@
-Building a Trello Clone using Laravel and Vue
-This is a demo application showing how to build a simple trello clone using Laravel and Vue. 
-You can read about how it was created on Pusher's blog.
-
 Prerequisites
 
 Git.
@@ -59,6 +55,7 @@ php artisan db:seed
 Install node modules
 
 $ npm install
+
 Run the application
 
 $ php artisan serve
